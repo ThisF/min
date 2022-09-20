@@ -1,3 +1,8 @@
 .a {
     text-rendering: 1;
 }
+
+.b {
+    color: aliceblue;
+    font-size: 14px;
+}
